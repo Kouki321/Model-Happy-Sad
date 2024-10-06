@@ -32,3 +32,7 @@ Install the necessary dependencies:
 pip install tensorflow-gpu==2.11.0
 pip install opencv-python
 pip install matplotlib
+
+to satrt the app.py file u just need to python
+```bash
+ -m streamlit run app.py
