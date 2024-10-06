@@ -11,7 +11,7 @@ This project is an image classification application built using **TensorFlow**. 
 - **Dropout Layers**: Used to reduce overfitting and improve model generalization.
 - **Customizable Image Shape**: The input image size is customizable using `image_dataset_from_directory`.
 ## Model Architecture
-###  The model is built using Convolutional Neural Networks (CNN) with Dropout layers for better regularization. Below is the summary of the layers used:
+### The model is built using Convolutional Neural Networks (CNN) with Dropout layers for better regularization. Below is the summary of the layers used:
 
 - **Conv2D Layer: Extracts image features using a 3x3 kernel.
 - **MaxPooling2D Layer: Reduces the dimensionality and highlights prominent features.
